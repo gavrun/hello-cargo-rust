@@ -1,0 +1,7 @@
+[package]
+name = "hello-cargo-rust"
+version = "1.51.0"
+authors = ["May Nay <email@me.local>"]
+edition = "2021"
+
+[dependencies]
